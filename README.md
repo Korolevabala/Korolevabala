@@ -3,5 +3,6 @@
 ## About me : Hello I am C# programmer-beginner.
 
 ### Languages and tools
-![C#](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
+![C#](https://img.shields.io/static/v1?label==C#=<blueviolet>)
+
 Follow me
