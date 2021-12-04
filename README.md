@@ -11,3 +11,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Korolevabala&show_icons=true&theme=cobalt&hide_title=true&count_private=true&include_all_commits=true&locale=ru)](https://github.com/Korolevabala/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Korolevabala&langs_count=5)](https://github.com/Korolevabala/github-readme-stats)
+
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/eanissa?privacyEmail=true)](https://github.com/Korolevabala/Korolevabala)
